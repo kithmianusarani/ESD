@@ -6,6 +6,8 @@ Noodles
 Pasta
 Chicken Rice
 
+Burger
+Pizza
 
 
 Thank You!
